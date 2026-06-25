@@ -2,3 +2,25 @@ __pycache__/
 venv/
 .env
 *.gif
+# OpenCV practice files (unrelated to gesture project)
+basic.py
+birthdayproblem.py
+bitwise.py
+colorchannels.py
+colorspaces.py
+contours.py
+download.jpg
+draw.py
+dummy.py
+facedetection.py
+facerecognition.py
+gradients.py
+haar_face.xml
+histogram.py
+masking.py
+read.py
+rescale.py
+smoothing.py
+thresholding.py
+transformations.py
+volumeHandControl.py
